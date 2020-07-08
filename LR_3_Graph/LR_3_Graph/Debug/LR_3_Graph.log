@@ -1,0 +1,6 @@
+﻿  LR_3_Graph.cpp
+c:\users\аня егорова\source\repos\лр0\лр0\humanparameters.h(55): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\users\аня егорова\source\repos\лр0\лр0\humanparameters.h(56): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\users\аня егорова\source\repos\lr_3_graph\lr_3_graph\lr_3_graph.cpp(213): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+c:\users\аня егорова\source\repos\lr_3_graph\lr_3_graph\lr_3_graph.cpp(226): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  LR_3_Graph.vcxproj -> C:\Users\Аня Егорова\source\repos\LR_3_Graph\Debug\LR_3_Graph.exe

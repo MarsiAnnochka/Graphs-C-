@@ -1,0 +1,12 @@
+@startuml
+usecase (Age: 6\nWeight: 2\nHeight: 7\n1) as 0
+usecase (Age: 73\nWeight: 62\nHeight: 12\n1) as 1
+usecase (Age: 74\nWeight: 258\nHeight: 25\n1) as 2
+usecase (Age: 56\nWeight: 17\nHeight: 83\n1) as 3
+usecase (Age: 2\nWeight: 67\nHeight: 56\n1) as 4
+(0) -- (1) : 3
+(0) -- (3) : 7
+(1) -- (2) : 6
+(2) -- (3) : 10
+(2) -- (4) : 7
+@enduml
